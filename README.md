@@ -19,7 +19,7 @@ Rockit App Build With Osmi Cli
 - [Android SDK](https://developer.android.com/)
 - [Java Depelovment Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
 
-# Instalasi
+# Instalation
 
 Clone this repository
 
@@ -27,7 +27,7 @@ Clone this repository
 git clone https://github.com/Anggasayogo/Rockit.git
 ```
 
-install dependesi with comand
+install dependention with comand
 
 ```
 npm install
