@@ -1,6 +1,6 @@
 # Rockit App
 
-Rockit App Build With Osmi Cli
+Rockit App Build With [Osmi Kit](https://github.com/OsmiCSX/osmi-kit)
 
 ## Tech Stack
 
